@@ -1,0 +1,5 @@
+.card-img-top {
+    display: flex;
+    height: 225px;
+    border-radius: 25px 25px 0px 0px !important
+}
